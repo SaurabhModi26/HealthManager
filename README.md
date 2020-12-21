@@ -1,4 +1,4 @@
-# HealthManager
+# Health Manager
 
 #Skills Used : Use of File IO Basics and use of functions and making program such that it don't get terminated by solving corner cases.
 
