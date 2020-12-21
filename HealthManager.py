@@ -28,6 +28,7 @@ Regarding Scope of Program :
 from sys import exit
 
 def gettime() :
+    """This function gives date and time of entry by using local system clock of user."""
     import datetime
     return datetime.datetime.now()
 
