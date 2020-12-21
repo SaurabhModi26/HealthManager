@@ -1,5 +1,7 @@
 # HealthManager
 
+#Skills Used : Use of File IO Basics and use of functions and making program such that it don't get terminated by solving corner cases.
+
 Health Manager program is the project wherein you can log and retrieve following :
 1. Exercises done by user.
 2. Food Items Eaten by user.
